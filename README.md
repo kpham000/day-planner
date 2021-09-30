@@ -1,6 +1,6 @@
 # day-planner
 
-For this assignment I will be creating a calendar application that allowsusers to save eents for each hour of the day by modifying the given starter code. I will use html, css, jQuery and Moment.js library to achieve the goal of this assignment. There is also an animation of what this assignment should similar to in the assets folder.
+For this assignment I will be creating a calendar application that allowsusers to save eents for each hour of the day by modifying the given starter code. I will use html, css, jQuery, js and Moment.js library to achieve the goal of this assignment. There is also an animation of what this assignment should similar to in the assets folder.
 
 This is list of criterias:
 GIVEN I am using a daily planner to create a schedule
